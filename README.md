@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# web_api
+Assignment Overview: You are tasked with creating a React application that integrates with the Reqres API to perform basic user management functions. The assignment is divided into three levels of increasing complexity.
+>>>>>>> 3ed953da5f2e4912d5a02ce1a6933d0210d37aa9
